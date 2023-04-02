@@ -12,6 +12,6 @@ package com.mycompany.java_trabajo_practico;
 public class Java_Trabajo_Practico {
 
     public static void main(String[] args) {
-        System.out.println("Hello mundo Trabajo Practico Java World!");
+        System.out.println("Trabajo practico para la catedra de POO!");
     }
 }
